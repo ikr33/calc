@@ -20,3 +20,6 @@ def funcFactorial(n):
 
 n = 10
 print("factorial of ",n," equal to ",funcFactorial(n))
+
+n = 12
+print("factorial of ",n," equal to ",funcFactorial(n))
